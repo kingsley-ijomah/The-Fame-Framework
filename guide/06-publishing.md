@@ -31,4 +31,4 @@ You'll publish some things that are world-class. You'll publish some things that
 - Repurpose across platforms — one idea can become a video, a post, a newsletter
 - Track your output volume, not just engagement
 
-Use the [Action Tracker](../worksheets/action-tracker.md) to log your publishing output.
+Use the [Action Tracker](../worksheets/04-action-tracker.md) to log your publishing output.

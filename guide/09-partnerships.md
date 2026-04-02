@@ -35,4 +35,4 @@ Great partnerships solve problems you can't solve alone. You just need to know h
 
 Don't rush into partnerships before the other 4 Ps are solid. Partnerships amplify what's already working — they can't fix what isn't.
 
-Use the [Action Tracker](../worksheets/action-tracker.md) to track partnership outreach and activity.
+Use the [Action Tracker](../worksheets/04-action-tracker.md) to track partnership outreach and activity.

@@ -29,4 +29,4 @@ Be deliberate about what you pitch. If you pitch problems, you'll attract proble
 - Pay attention to what makes people lean in vs. tune out
 - Refine constantly
 
-Use the [Action Tracker](../worksheets/action-tracker.md) to log your pitching activity.
+Use the [Action Tracker](../worksheets/04-action-tracker.md) to log your pitching activity.

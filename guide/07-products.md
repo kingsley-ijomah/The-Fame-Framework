@@ -39,4 +39,4 @@ Creating a new, hot product is one of the best assets you'll ever have. Better t
 - Add a prospect product as a low-risk entry point
 - Finally, build the ongoing product to retain clients
 
-Use the [Action Tracker](../worksheets/action-tracker.md) to track your product development.
+Use the [Action Tracker](../worksheets/04-action-tracker.md) to track your product development.

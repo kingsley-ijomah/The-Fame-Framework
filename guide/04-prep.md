@@ -42,4 +42,4 @@ Before building anything, map out what your 4-tier product ecosystem will look l
 
 You don't need to build them all now. But you need to know where you're heading.
 
-Use the [Prep Checklist](../worksheets/prep-checklist.md) to track your setup progress.
+Use the [Prep Checklist](../worksheets/03-prep-checklist.md) to track your setup progress.

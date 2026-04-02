@@ -29,4 +29,4 @@ Get this wrong (or skip it) and everything downstream is scattered.
 
 Don't try to perfect it on day one. Write a first draft, use it in real conversations, and refine it based on how people react. You'll know it's working when people lean in and ask follow-up questions.
 
-Use the [Core Message Worksheet](../worksheets/core-message.md) to draft yours.
+Use the [Core Message Worksheet](../worksheets/01-core-message.md) to draft yours.

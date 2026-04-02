@@ -71,4 +71,4 @@ Then in the Prep phase, you make informed decisions:
 - Structure your product ecosystem with a proven model in mind
 - Set a profile benchmark you can work towards
 
-Use the [Shadow a KPI Worksheet](../worksheets/shadow-a-kpi.md) to document your research.
+Use the [Shadow a KPI Worksheet](../worksheets/02-shadow-a-kpi.md) to document your research.

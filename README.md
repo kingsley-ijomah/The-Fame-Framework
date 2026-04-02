@@ -27,8 +27,8 @@ Work through the guide pages in order. Each one is a short read (~2-3 minutes) a
 
 Practical tools to apply the framework:
 
-- [Core Message Worksheet](worksheets/core-message.md)
-- [Shadow a KPI Worksheet](worksheets/shadow-a-kpi.md)
-- [Prep Checklist](worksheets/prep-checklist.md)
-- [Action Tracker](worksheets/action-tracker.md)
-- [Scorecard](worksheets/scorecard.md)
+- [Core Message Worksheet](worksheets/01-core-message.md)
+- [Shadow a KPI Worksheet](worksheets/02-shadow-a-kpi.md)
+- [Prep Checklist](worksheets/03-prep-checklist.md)
+- [Action Tracker](worksheets/04-action-tracker.md)
+- [Scorecard](worksheets/05-scorecard.md)

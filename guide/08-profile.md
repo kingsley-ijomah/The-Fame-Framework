@@ -32,4 +32,4 @@ The goal is not to chase the spotlight. It's to become the spotlight — the per
 
 Google yourself. What comes up? That's your current profile. Now ask: what do I want it to look like in 12 months?
 
-Use the [Scorecard](../worksheets/scorecard.md) to rate your SALT status.
+Use the [Scorecard](../worksheets/05-scorecard.md) to rate your SALT status.

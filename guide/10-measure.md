@@ -41,4 +41,4 @@ Your lowest score is your bottleneck. That's where to focus next.
 
 Review your scorecard monthly. Update your position quarterly. The goal isn't perfection across all 5 Ps at once — it's consistent forward movement on whichever P needs the most attention right now.
 
-Use the [Scorecard Worksheet](../worksheets/scorecard.md) for your detailed self-assessment.
+Use the [Scorecard Worksheet](../worksheets/05-scorecard.md) for your detailed self-assessment.
